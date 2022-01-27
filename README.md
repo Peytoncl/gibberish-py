@@ -4,7 +4,7 @@ This python file has some simple functions that will turn english into a bunch o
 
 # Usage
 
-Put this into your project directory, and you should just be able to include it into your project
+Put the python file into your project directory, then put this into your code
 
 ```py
 from gibberish import *
@@ -12,7 +12,7 @@ from gibberish import *
 
 # Example
 
-If you want it to turn into symbols and text everywhere, use this example.
+If you want it to turn into symbols and text everywhere, use this example
 
 ```py
 from gibberish import *
@@ -20,7 +20,7 @@ from gibberish import *
 print(Gibberish("Hello World")
 ```
 
-If you want to have JUST english with symbols all over it, use this.
+If you want to have JUST english with symbols all over it, use this
 
 ```py
 from gibberish import *
